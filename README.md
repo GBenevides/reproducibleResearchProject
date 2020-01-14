@@ -1,2 +1,2 @@
 # reproducibleResearchProject
-Project
+Project for the subject at MOSIG M2.
