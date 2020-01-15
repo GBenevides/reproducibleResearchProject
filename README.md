@@ -1,4 +1,4 @@
-# reproducibleResearchProject
+# Reproducible Research Project
 ### Project for the subject _Scientific Methodology and Performance Evaluation_, as part of my MOSIG M2 program.
 I have choosen to do a brief analysis on data freely available online about the relation between the price of wheat and the wages of workers in England over a period of time.
 
